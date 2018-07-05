@@ -1,6 +1,6 @@
 # Step Function Iterator
 
-This repository is used in conjunction with a step function to count how many times a Step Function loop occurred; since a SF can only have 25,000 events in its logs 
+This repository is used in conjunction with a step function to count how many times a Step Function loop occurred; since a SF can only have 25,000 events in its logs.
 
 # More about us
 
